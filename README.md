@@ -1,7 +1,7 @@
 # test
-Just to test our auto judge system.
+Just to test our auto judge system. 
 
-The following project(with minor modification) is to be tested:
+The test project is a copy of the following project(with minor modification):
 
 https://github.com/kobayashi-compiler/kobayashi-compiler
 
